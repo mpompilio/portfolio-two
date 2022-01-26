@@ -137,6 +137,16 @@ li {
   list-style: none;
 }
 
+
+.resume-title {
+  padding: 25px 0;
+}
+
+.skills-h2 {
+  font-size: medium;
+  padding: 25px;
+}
+
 .nav-header {
   margin: 25px 10px;
 
