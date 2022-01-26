@@ -3,8 +3,8 @@ import About from './components/About';
 import Nav from './components/Nav';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
-import resume from './components/Resume';
 import Resume from './components/Resume';
+import Footer from './components/footer';
 
 function App() {
 
@@ -61,7 +61,9 @@ function App() {
         )}
         <About></About>
       </main>
+      <Footer></Footer>
     </div>
+
   );
 }
 
