@@ -5,7 +5,6 @@ main {
 }
 
 :root {
-  --primary: #8c54ff;
   --secondary: #8cb3d9;
   --tertiary: #B12704;
   --light: #fafafa;
@@ -126,6 +125,7 @@ input {
   outline: none;
   border-radius: 3px;
   transition: box-shadow 0.2s;
+  width: 95%;
 }
 
 input:focus {
@@ -205,7 +205,7 @@ textarea {
 
 
 button {
-  background: var(--primary);
+  background: var(--fourth-color);
   border: 0;
   border-radius: 5px;
   color: #fff;
@@ -230,6 +230,14 @@ a {
   color: var(--secondary);
 }
 
+.contact-tag {
+  padding: 25px 0;
+}
+
+.contact-div {
+  padding: 10px 0;
+  color: var(--light);
+}
 
 /* Sections */
 section {
