@@ -6,7 +6,7 @@ main {
 
 :root {
   --primary: #8c54ff;
-  --secondary: #F3A847;
+  --secondary: #8cb3d9;
   --tertiary: #B12704;
   --light: #fafafa;
   --dark: #2d5986;
@@ -135,6 +135,11 @@ input:focus {
 
 li {
   list-style: none;
+}
+
+.nav-header {
+  margin: 25px 10px;
+
 }
 
 nav a:hover {
@@ -317,7 +322,8 @@ section h2 {
 }
 
 .worklist-img {
-  width: 100%;
+  width: 1750px;
+  height: 250px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   border: 3px solid var(--secondary-color);
   filter: blur(8px);
@@ -351,22 +357,24 @@ section h2 {
 
 .second-image-tag {
   position: absolute;
-  margin: 6em 10em 6em 2em;
+  margin: 6em 5em 6em 2em;
   color: var(--secondary-color);
-  font-size: 1.25vw;
   background-color: var(--fourth-color);
-  height: 6.00vw;
-  width: 13.00vw;
-  padding: 10px;
+  height: 3.00vw;
+  width: 7.00vw;
   text-align: center;
   text-emphasis: none;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
+.tag-font {
+  font-size: small;
+}
+
 .second-image-tag:hover {
   position: absolute;
-  margin: 6em 10em 6em 2em;
+  margin: 6em 5em 6em 2em;
   color: var(--secondary-color);
   background-color: var(--primary-color);
   text-align: center;
