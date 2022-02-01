@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/photo-port/static/css/main.e7dce648.css",
-    "main.js": "/photo-port/static/js/main.20e2f2cd.js",
-    "static/js/787.83a59554.chunk.js": "/photo-port/static/js/787.83a59554.chunk.js",
-    "static/media/run-buddy.jpeg": "/photo-port/static/media/run-buddy.0ec94f3d38579b39f05f.jpeg",
-    "static/media/zoo-keepr.png": "/photo-port/static/media/zoo-keepr.a7bcd632334fa82a3def.png",
-    "static/media/FoodDashAPP.jpeg": "/photo-port/static/media/FoodDashAPP.cbd6e265711c860bcaef.jpeg",
-    "static/media/Horiseon.jpeg": "/photo-port/static/media/Horiseon.e32930d87249d40dfa08.jpeg",
-    "static/media/linkedin.png": "/photo-port/static/media/linkedin.a7509b75d466c602c92e.png",
-    "static/media/Business-Headshot.jpeg": "/photo-port/static/media/Business-Headshot.8ef1252557042962d3d3.jpeg",
-    "static/media/tunebook.jpeg": "/photo-port/static/media/tunebook.18b9e82065c41f92185b.jpeg",
-    "static/media/note-taker.png": "/photo-port/static/media/note-taker.fdb2d67f813d7ad7bf9f.png",
-    "static/media/Matthew Pompilio_Resume.docx": "/photo-port/static/media/Matthew Pompilio_Resume.382b5e6ae4dbd3f24b37.docx",
-    "index.html": "/photo-port/index.html",
-    "main.e7dce648.css.map": "/photo-port/static/css/main.e7dce648.css.map",
-    "main.20e2f2cd.js.map": "/photo-port/static/js/main.20e2f2cd.js.map",
-    "787.83a59554.chunk.js.map": "/photo-port/static/js/787.83a59554.chunk.js.map"
+    "main.css": "/portfolio-two/static/css/main.e7dce648.css",
+    "main.js": "/portfolio-two/static/js/main.9ea3e313.js",
+    "static/js/787.83a59554.chunk.js": "/portfolio-two/static/js/787.83a59554.chunk.js",
+    "static/media/run-buddy.jpeg": "/portfolio-two/static/media/run-buddy.0ec94f3d38579b39f05f.jpeg",
+    "static/media/zoo-keepr.png": "/portfolio-two/static/media/zoo-keepr.a7bcd632334fa82a3def.png",
+    "static/media/FoodDashAPP.jpeg": "/portfolio-two/static/media/FoodDashAPP.cbd6e265711c860bcaef.jpeg",
+    "static/media/Horiseon.jpeg": "/portfolio-two/static/media/Horiseon.e32930d87249d40dfa08.jpeg",
+    "static/media/linkedin.png": "/portfolio-two/static/media/linkedin.a7509b75d466c602c92e.png",
+    "static/media/Business-Headshot.jpeg": "/portfolio-two/static/media/Business-Headshot.8ef1252557042962d3d3.jpeg",
+    "static/media/tunebook.jpeg": "/portfolio-two/static/media/tunebook.18b9e82065c41f92185b.jpeg",
+    "static/media/note-taker.png": "/portfolio-two/static/media/note-taker.fdb2d67f813d7ad7bf9f.png",
+    "static/media/Matthew Pompilio_Resume.docx": "/portfolio-two/static/media/Matthew Pompilio_Resume.382b5e6ae4dbd3f24b37.docx",
+    "index.html": "/portfolio-two/index.html",
+    "main.e7dce648.css.map": "/portfolio-two/static/css/main.e7dce648.css.map",
+    "main.9ea3e313.js.map": "/portfolio-two/static/js/main.9ea3e313.js.map",
+    "787.83a59554.chunk.js.map": "/portfolio-two/static/js/787.83a59554.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7dce648.css",
-    "static/js/main.20e2f2cd.js"
+    "static/js/main.9ea3e313.js"
   ]
 }
