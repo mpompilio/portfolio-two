@@ -16,7 +16,7 @@ function App() {
 
   const [portfolioSelected, setPortfolioSelected] = useState(false);
   const [contactSelected, setContactSelected] = useState(false);
-  const [aboutSelected, setAboutSelected] = useState(false);
+  const [aboutSelected, setAboutSelected] = useState(true);
   const [resumeSelected, setResumeSelected] = useState(false);
 
   return (
@@ -59,7 +59,12 @@ function App() {
         ) : (
           <Resume></Resume>
         )}
-        <About></About>
+        {!aboutSelected ? (
+          <>
+          </>
+        ) : (
+          <About></About>
+        )}
       </main>
       <Footer></Footer>
     </div>

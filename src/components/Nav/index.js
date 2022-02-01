@@ -8,6 +8,7 @@ function Nav(props) {
         setPortfolioSelected,
         contactSelected,
         setContactSelected,
+        aboutSelected,
         setAboutSelected,
         resumeSelected, 
         setResumeSelected
@@ -27,16 +28,16 @@ function Nav(props) {
     <nav>
         <ul className="flex-row">
           <li className="mx-2">
-          <span onClick={() => { setPortfolioSelected(false); setContactSelected(false); setResumeSelected(false);}}>About me</span>
+          <span onClick={() => { setAboutSelected(true); setPortfolioSelected(false); setContactSelected(false); setResumeSelected(false);}}>About me</span>
           </li>
           <li className={`mx-2 ${portfolioSelected && 'navActive'}`}>
-            <span onClick={() => { setPortfolioSelected(true); setContactSelected(false); setAboutSelected(false); setResumeSelected(false);}}>Portfolio</span>
+            <span onClick={() => { setPortfolioSelected(true); setContactSelected(false); setAboutSelected(false); setResumeSelected(false); setAboutSelected(false);}}>Portfolio</span>
           </li>
           <li className={`mx-2 ${contactSelected && 'navActive'}`}>
-            <span onClick={() => { setContactSelected(true); setPortfolioSelected(false); setAboutSelected(false); setResumeSelected(false);}}>Contact</span>
+            <span onClick={() => { setContactSelected(true); setPortfolioSelected(false); setAboutSelected(false); setResumeSelected(false); setAboutSelected(false);}}>Contact</span>
           </li>
           <li className={`mx-2 ${resumeSelected && 'navActive'}`}>
-            <span onClick={() => { setResumeSelected(true); setContactSelected(false); setPortfolioSelected(false); setAboutSelected(false);}}>Resume</span>
+            <span onClick={() => { setResumeSelected(true); setContactSelected(false); setPortfolioSelected(false); setAboutSelected(false); setAboutSelected(false);}}>Resume</span>
           </li>
 
         </ul>
