@@ -10,12 +10,12 @@ function Portfolio() {
     
         
             <div class="main-work">
-                <a href="https://vast-woodland-57588.herokuapp.com/" >
-                    <img src={require("../../assets/images/tunebook.jpeg")} alt="run buddy image" />
+                <a href="https://radiant-springs-59444.herokuapp.com/" >
+                    <img src={require("../../assets/images/nfteez.png")} alt="run buddy image" />
                 </a>
                 <div class="image-tag">
-                    <a href="https://vast-woodland-57588.herokuapp.com/" >
-                        <h3>tunebook</h3>
+                    <a href="https://radiant-springs-59444.herokuapp.com/" >
+                        <h3>nfteez</h3>
                         <p>HTML/CSS/JS</p>
                     </a>
                 </div>
